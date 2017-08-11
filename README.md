@@ -1,1 +1,1 @@
-# nc
+https://zhangzixun.github.io/nc/
